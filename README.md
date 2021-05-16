@@ -1,0 +1,2 @@
+# softmax
+learning softmax regression 
